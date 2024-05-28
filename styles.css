@@ -1,0 +1,30 @@
+.directory { 
+    position: absolute;
+    right: 1%;
+    top: 2%;
+}
+
+a:link, a:hover, a:visited, a:active{
+    font-weight: bold;
+    color: rgb(47, 46, 50);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  input, select, textarea {
+    margin-bottom: 16px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+
+  p, h1 h2 {
+    font-size: 50%;
+    font-family: helvetica;
+  }
+
+  html { 
+    background-color: rgb(222, 210, 199);
+ }
